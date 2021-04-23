@@ -590,6 +590,11 @@ footer.copyright{
         padding: 40px 20px;
         margin: 30px;
     }
+	.testimonial .content .testimonialBx video{
+        width:400px;
+        height:400px;
+    }
+    
     .heading.bottom{
         display:flex;
         justify-content: space-between;
